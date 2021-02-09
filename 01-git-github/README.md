@@ -23,15 +23,22 @@ E também foi abordado o conceito de [Markdown](https://support.typora.io/Markdo
  Inicializa o GIT naquele repositório, e todos os arquivos recebem o status de **Untracked** (não rastreado).
  - `git add`
  Faz com que nosso arquivo saia da condição de **Untracked** (não rastreado) e passe a ser **Tracked** (rastreado) e recebe o status de Staged que é uma espécie de buffer entre o diretório ativo e o histórico do projeto.
- ![](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-01.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
+ ![01-01](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-01.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
  - **Unmodified**
  Se um arquivo não foi alterado desde que passou a ser rastreado então ele recebe o status de Unmodified (não modificado).
- ![](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-02.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
+ ![01-02](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-02.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
  - **Modified**
  Por outro lado se o arquivo foi modificado então ele recebe o status de Modified (Modificado) e vai para a área de Staged.
- ![](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-03.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
+ ![01-03](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-03.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
  - **Untracked**
  Se estivermos com um arquivo Unmodified e removermos ele, então esse arquivo passa a ser Untracked
- ![](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-04.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
+ ![01-04](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-04.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
  - `git commit` Quando o arquivo está no estado de Staged ele está se preparando para fazer parte de um commit.  Após ser feito o Commit, os arquivos voltam ao estágio Unmodified.
-  ![](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-05.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
+ ![01-05](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/01-git-github/01-05.png)<p style="text-align: center;">Fonte: Slide da Aula</p>
+
+## Aula 6
+ - `git remote` Comando utilizado para apontar o repositório local para o repositório remoto
+   - `git remote add origin URL`
+ - `git push` Comando utilizado para enviar as alterações do repositório local para o repositório remoto
+   - `git push origin master`
+ - `git pull` Comando utilizado para receber as alterações do repositório remoto para o repositório local
