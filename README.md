@@ -7,7 +7,7 @@ O #LocalizaLabs(laboratório de tecnologia e inovação da [Localiza](https://ww
 ## 📚 Módulos do Bootcamp
  - Lógica de programação essencial
  - Aprenda o que são Estrutura de Dados e Algoritmos
- - [Introdução ao Git e ao GitHub](https://github.com/matheussantanads/bootcamp-dio-localizaLabs/tree/main/01-git-github#aulas-1-2-e-3)
+ - [Introdução ao Git e ao GitHub](https://github.com/matheussantanads/bootcamp-dio-localizaLabs/tree/main/git-github#aulas-1-2-e-3)
  - Primeiros passos com .NET + C#
  - Orientação a objetos em .NET
  - Solução de problemas em C#
