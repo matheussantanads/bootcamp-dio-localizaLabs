@@ -1,4 +1,4 @@
-![Primeiros passos com .NET + C#](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/primeiros-passos-c#/primeiros-passos-c#.png)
+![Primeiros passos com .NET + C#](http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/primeiros-passos-csharp/primeiros-passos-csharp.png)
 
 ## Aula 1
 É aborado um pouco da história do .NET e onde usar .NET.
