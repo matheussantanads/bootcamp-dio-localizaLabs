@@ -1,0 +1,13 @@
+/src/aula02/bin/Debug/netcoreapp3.1/aula02
+/src/aula02/bin/Debug/netcoreapp3.1/aula02.deps.json
+/src/aula02/bin/Debug/netcoreapp3.1/aula02.runtimeconfig.json
+/src/aula02/bin/Debug/netcoreapp3.1/aula02.runtimeconfig.dev.json
+/src/aula02/bin/Debug/netcoreapp3.1/aula02.dll
+/src/aula02/bin/Debug/netcoreapp3.1/aula02.pdb
+/src/aula02/obj/Debug/netcoreapp3.1/aula02.csprojAssemblyReference.cache
+/src/aula02/obj/Debug/netcoreapp3.1/aula02.AssemblyInfoInputs.cache
+/src/aula02/obj/Debug/netcoreapp3.1/aula02.AssemblyInfo.cs
+/src/aula02/obj/Debug/netcoreapp3.1/aula02.csproj.CoreCompileInputs.cache
+/src/aula02/obj/Debug/netcoreapp3.1/aula02.dll
+/src/aula02/obj/Debug/netcoreapp3.1/aula02.pdb
+/src/aula02/obj/Debug/netcoreapp3.1/aula02.genruntimeconfig.cache
