@@ -62,3 +62,15 @@ dotnet run
 ```csharp
 dotnet run -p CAMINHO_DA_PASTA
 ```
+
+## Aula 3
+### O que é C#?
+Linguagem orientada a objetos e fortemente tipada. Atualmente o compilador do C# é o Roslyn e os programas C# são executados no .NET, que inclui:
+ - CLR (Common Language Runtime)
+    - `Gargabe Collector` Com ele é possível recuperar uma área de memória inutilizada por um programa
+    - `Exception Handler` Receber e controlar exceções de erros
+    - `Resources Manager` Um gerenciador de recursos que fornece acesso conveniente aos recursos específicos no tempo de execução
+ - Conjunto unificado de bibliotecas de classes
+### Como funciona?
+O código-fonte é compilado em uma linguagem intermediária (*IL*). O código e os recursos de (*IL*) são armazenados no disco em um arquivo executável assembly. Quando o programa é executado, o assembly é carregado no (*CLR*) e em seguida o (*CLR*) executa a compilação *just in time* (*JIT*) para converter o código (*IL*) em instrução de máquina.
+<p align="center"><img src="http://matheusti.com.br/my-github-images/bootcamp-dio-localizaLabs/primeiros-passos-csharp/como-funciona.png" title="Fonte: Slide da Aula"/><br/><span>Fonte: Slide da Aula</span></p>
