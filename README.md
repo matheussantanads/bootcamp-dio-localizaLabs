@@ -8,7 +8,7 @@ O #LocalizaLabs(laboratório de tecnologia e inovação da [Localiza](https://ww
  - Lógica de programação essencial
  - Aprenda o que são Estrutura de Dados e Algoritmos
  - [Introdução ao Git e ao GitHub](https://github.com/matheussantanads/bootcamp-dio-localizaLabs/tree/main/git-github#aulas-1-2-e-3)
- - Primeiros passos com .NET + C#
+ - [Primeiros passos com .NET + C#](https://github.com/matheussantanads/bootcamp-dio-localizaLabs/tree/main/primeiros-passos-c%23#aula-1)
  - Orientação a objetos em .NET
  - Solução de problemas em C#
  - Criando uma aplicação de transferências bancárias com .NET
